@@ -7,6 +7,7 @@
 
 
 - 🌱 I’m currently learning Full Stack Web Development in Factoria F5, Madrid.
+- I have my degree in Marketing
 - Venezuelan Living in Madrid, Spain.
 - 📫 How to reach me: ...
 
