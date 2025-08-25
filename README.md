@@ -6,8 +6,8 @@
 
 
 
-- 🌱 I’m currently learning Full Stack Web Development in Factoria F5, Madrid.
+- 🌱 I’m currently working in Quality Assurance.
 - I have my degree in Marketing
 - Venezuelan Living in Madrid, Spain.
-- 📫 How to reach me: ...
+- 📫 How to reach me: www.linkedin.com/in/krisneiras
 
